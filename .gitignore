@@ -1,1 +1,13 @@
+# Junk that could exist anywhere
+.DS_Store
+*.swp
+*.tmp
 *~
+DEADJOE
+
+# Hidden files except for .gitignore
+.*
+!/.gitignore
+
+# Ignore this folder
+/ignore/
